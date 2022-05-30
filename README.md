@@ -1,6 +1,8 @@
-# global-solution-dbe-1-semestre
+# gs_dbe1
 
-Entrega global solution DBE prof joão.
-Dupla 
-Rafael Vinícius RM 86981
-João Pedro Marques Nardi RM85846.
+Dupla: 
+
+2TDSH
+
+Bruno Lora - RM89321
+Paulo Gurgel - RM88960
